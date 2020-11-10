@@ -543,7 +543,6 @@ b i:last-child {
     white-space: nowrap;
     left: 0;
     top: 0;
-    right: 0;
 }
 
 .box-words-wrapper b.is-visible {
