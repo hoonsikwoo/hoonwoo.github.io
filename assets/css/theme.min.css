@@ -7738,3 +7738,8 @@ body.search .no-results .search-form input[type=submit] { background-color: var(
   .page-has-frame .is-stuck { left: 20px; right: 20px; }
   .page-has-frame .megamenu.megamenu-fullwidth .nav-item-children { width: calc( 100vw - 40px ); left: calc(50% + 10px) !important; right: calc(50% + 10px) !important; margin-left: calc(-50vw + 10px) !important; margin-right: calc(-50vw + 10px) !important; }
   .page-has-frame .megamenu.megamenu-fullwidth .megamenu-container { width: calc( 100vw - 40px ) !important; } }
+
+
+#front-margin{
+  margin-top: -30px;
+}
