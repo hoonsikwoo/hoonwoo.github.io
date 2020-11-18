@@ -7743,7 +7743,3 @@ body.search .no-results .search-form input[type=submit] { background-color: var(
 #front-margin{
   margin-top: -30px;
 }
-
-.shadow{
-  text-shadow: 2px 2px #00000047;
-}
